@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Anastasia Yakovleva](https://up.htmlacademy.ru/htmlcss/23/user/315265).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Вадясова] (https://htmlacademy.ru/profile/ad0v0).
 
 ---
 
